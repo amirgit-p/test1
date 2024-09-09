@@ -38,6 +38,7 @@ class Database:
         return self.cur.fetchall()
 
     def my_func(self):
+        print()
         pass    
 
 
